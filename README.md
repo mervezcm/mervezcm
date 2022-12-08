@@ -8,6 +8,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/merveozcam-follow%20on%20linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/merveozcam?locale=en_US) 
 ![Profile views](https://gpvc.arturio.dev/merveozcam)
 
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/izzet-ozdemir)](https://github.com/izzet-ozdemir) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@izzetozdemir)](https://medium.com/@izzetozdemir) 
+[![Linkedin Badge](https://img.shields.io/badge/izzetozdemir-follow%20on%20linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/izzetozdemir?locale=en_US) 
+![Profile views](https://gpvc.arturio.dev/izzet-ozdemir)
 **mervezcm/mervezcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
