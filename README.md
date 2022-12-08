@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Merve Ozcam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mervezcm&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mervezcma&layout=compact)](https://github.com/mervezcm/github-readme-stats)
 <!--
 **mervezcm/mervezcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
