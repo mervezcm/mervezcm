@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Merve Ozcam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mervezcm&theme=dark&show_icons=true)
+![Merve Ozcam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mervezcm&theme=onedark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mervezcm&layout=compact)](https://github.com/mervezcm/github-readme-stats)
 <!--
