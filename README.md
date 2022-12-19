@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Merve Ozcam</h1>
 <h3 align="center">A passionate Software Development Engineer in Test | from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/nNfvY2LrZISn3aO3V5zzAM2pPgOH5tlsvlvtJ2XVhqI.gif?format=mp4&s=1d28fbf95cd16f943707101d77ef488c234133cf"/>
 
 - 🔭 I’m currently focusing on Java.
 
