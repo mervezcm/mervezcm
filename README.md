@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Merve Ozcam</h1>
@@ -13,17 +13,11 @@
 
 - 📫 How to reach me **merveozcam@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/merveozcam" target="blank"><img align="center" src="https://raw.githubusercontent.com/mervezcm/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervezcm" height="30" width="40" /></a>
-
 ![Merve Ozcam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mervezcm&theme=onedark&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mervezcm&layout=compact)](https://github.com/mervezcm/github-readme-stats)
 <!--
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/mervezcm)](https://github.com/mervezcm) 
-[![Linkedin Badge](https://img.shields.io/badge/merveozcam-follow%20on%20linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/merveozcam?locale=en_US) 
-![Profile views](https://gpvc.arturio.dev/merveozcam)
 
 
 
