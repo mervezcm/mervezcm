@@ -1,4 +1,25 @@
 ### Hi there 👋
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+<h1 align="center">Hi 👋, I'm Merve Ozcam</h1>
+<h3 align="center">A passionate Software Development Engineer in Test | from Turkey</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+- 🔭 I’m currently focusing on Java.
+
+- 🌱 I’m currently learning oop's concepts .
+
+- 💬 Ask me about ** JAVA,PYTHON,HTML **
+
+- 📫 How to reach me **merveozcam@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/merveozcam" target="blank"><img align="center" height="30" width="40" /></a>
+</p>
+
+
+
 ![Merve Ozcam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mervezcm&theme=onedark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mervezcm&layout=compact)](https://github.com/mervezcm/github-readme-stats)
