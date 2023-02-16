@@ -9,11 +9,9 @@
 <h3 align="center">A passionate Software Development Engineer in Test | from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/nNfvY2LrZISn3aO3V5zzAM2pPgOH5tlsvlvtJ2XVhqI.gif?format=mp4&s=1d28fbf95cd16f943707101d77ef488c234133cf"/>
 
-- 🔭 I’m currently focusing on Java,Python.
-
-- 🌱 I’m currently learning....
-
-- 💬 Ask me about ** JAVA,PYTHON,HTML,SELENİUM **
+🔭 I’m Software Development Engineer in Test (SDET)
+🌱 I’m currently and actively working on QA Automation.
+💬 Ask me about Java,Python, Selenium, Junit, TestNG, Cucumber, API,APPIUM, HTML, CSS, SQL, SDLC, STLC, Agile,Scrum.
 
 - 📫 How to reach me **merveozcam@gmail.com**
 
