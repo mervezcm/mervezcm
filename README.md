@@ -1,6 +1,10 @@
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/mervezcm/mervezcm/main/hello.gif" align="center" style="width: 100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Merve Ozcam</h1>
 <h3 align="center">A passionate Software Development Engineer in Test | from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/nNfvY2LrZISn3aO3V5zzAM2pPgOH5tlsvlvtJ2XVhqI.gif?format=mp4&s=1d28fbf95cd16f943707101d77ef488c234133cf"/>
